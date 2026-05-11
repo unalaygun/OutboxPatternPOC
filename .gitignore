@@ -1,0 +1,21 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+## IDE
+.vs/
+.idea/
+*.swp
+
+## Docker
+docker-compose.override.yml
+
+## OS
+Thumbs.db
+.DS_Store
